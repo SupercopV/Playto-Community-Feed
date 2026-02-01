@@ -1,4 +1,4 @@
-1. The Tree — Nested Comments Design
+#1. The Tree — Nested Comments Design
 How comments are modeled
 
 Nested comments are modeled using a self-referential foreign key.
@@ -151,5 +151,6 @@ Result
 ✅ Auditable
 
 ✅ Time-based analytics supported
+
 
 ✅ Matches real production systems
